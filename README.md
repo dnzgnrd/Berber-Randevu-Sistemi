@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bre Berber
 
 Tunceli Atatürk Mahallesi — randevu ve galeri sitesi.  
@@ -60,3 +61,7 @@ Tarayıcı: http://localhost:5173/
 - Randevu `pending` başlar; admin onaylar/reddeder. Bekleyen saat dolu sayılır.
 - İptal: randevudan en az 2 saat önce.
 - Slot: 30 dakika.
+=======
+# Berber-Randevu-Sistemi
+Kullanıcıların berberlerinin sayfasına girip sistem üzerinde randevu alabilecekleri bir program
+>>>>>>> 8e7221a555b6036477b7b46d1147e142c979639d
